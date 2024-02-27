@@ -43,7 +43,7 @@ FilterX is an image processing application built using Python and Tkinter. It pr
 **Note:** Ensure all the required libraries are installed before running the application.
 
 **Author:**
-[Volodymyr "KHVZIX" Kuzin]
+Volodymyr "KHVZIX" Kuzin
 
 **Contact:**
 - Email: volHkuz@gmail.com
